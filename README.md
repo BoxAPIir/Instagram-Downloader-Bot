@@ -32,7 +32,7 @@ A Telegram bot that allows users to retrieve public Instagram profile informatio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/BoxAPIir/Instagram-downloader-bot.git
+git clone https://github.com/BoxAPIir/Instagram-Downloader-Bot.git
 cd instagram-telegram-bot
 ```
 
