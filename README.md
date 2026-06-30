@@ -94,10 +94,10 @@ Bot is running...
 ## Configuration Variables
 
 | Variable          | Description                |
-| ----------------- | -------------------------- |
+| ----------------- |----------------------------|
 | `TELEGRAM_TOKEN`  | Telegram Bot API token     |
-| `BOXAPI_USERNAME` | Instagram account username |
-| `BOXAPI_PASSWORD` | Instagram account password |
+| `BOXAPI_USERNAME` | Boxapi account username    |
+| `BOXAPI_PASSWORD` | Boxapi account password |
 
 ## Notes
 
